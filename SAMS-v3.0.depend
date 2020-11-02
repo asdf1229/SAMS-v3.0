@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604288138 source:c:\users\zzh\desktop\file\code\codeblocks_program\sams-v3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
